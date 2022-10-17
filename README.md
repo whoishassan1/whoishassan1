@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @whoishassan1
+- 👀 I’m interested in SAP.
+- 🌱 I’m currently learning Power BI.
+- 💻 I,m software Engineer.
+- 💞️ I’m looking to collaborate on SAP.
+- 📫 My instagram is whoishassan1.
